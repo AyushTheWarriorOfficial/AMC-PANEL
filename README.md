@@ -42,7 +42,9 @@ Url - localhost:3000
 systemctl restart nginx
 ```
 # How to start 
+```
 - Run node app.js or npm start 
+```
 
 ## 🙌 Credits
 
