@@ -10,6 +10,7 @@
 apt update
 apt install git
 apt install unzip
+apt install docker.io
 curl -sL https://deb.nodesource.com/setup_23.x | sudo bash -
 
 apt-get install nodejs git
