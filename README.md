@@ -39,11 +39,7 @@ Url - localhost:3000
 ```
 # How to Start Panel
 ```
-systemctl restart nginx
-```
-# How to start 
-```
-- Run node app.js or npm start 
+run node app.js or npm start
 ```
 
 ## 🙌 Credits
